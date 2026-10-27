@@ -35,8 +35,7 @@ Coffee, Copper, Corn, Sugar, Soybean, Soybean Oil, Wheat, Cotton, Oats and Lumbe
 7. Consecutive growth years by Oats - 6 years and consecutive decline years by Cotton 5 years.
 
 ## Dashboard Preview
-
-![Commodity Analysis Dashboard](Images/Commodities Market Performance.png)
+![Commodity Analysis Dashboard](Images/Commodities%20Market%20Performance.png)
 
 ## Project Files
 - `Commodity_Analysis.xlsx` — Excel workbook containing the analysis and visualizations.
